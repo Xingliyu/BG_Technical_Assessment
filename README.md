@@ -28,6 +28,9 @@ PostgreSQL
 ### Schema
 ![Mockup](image/Schema.png)
 
+### Approach
+
+`Part2.sql` code for Part 2
 
 ### Queries
 
