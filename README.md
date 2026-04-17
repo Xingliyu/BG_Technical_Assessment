@@ -1,8 +1,5 @@
 # BG_Technical_Assessment
 
-- **Part 1** — Data Retrieval, Parsing, and Transformation
-- **Part 2** — SQL database schema design and queries
-
 ---
 
 ## Part 1 — Data Retrieval, Parsing, and Transformation
@@ -13,8 +10,6 @@
 **PMID:** 38790019  
 **PMC:** PMC11127317  
 **DOI:** 10.1186/s13023-024-03213-x
-
-### Approach
 
 `Part1.ipynb` code for Part 1
 
