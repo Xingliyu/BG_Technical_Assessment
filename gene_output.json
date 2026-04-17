@@ -1,0 +1,52 @@
+{
+  "pmid": "38790019",
+  "doi": "10.1186/s13023-024-03213-x",
+  "pmc": "PMC11127317",
+  "genes": [
+    {
+      "hgnc_id": "HGNC:19903",
+      "hgnc_gene_name": "Ras related GTP binding D",
+      "gene_symbol": "RRAGD",
+      "gene_aliases": "DKFZP761H171; bA11D8.2.1",
+      "hg38_coords": "chr6:89364616-89412735 (-)",
+      "hg19_coords": "chr6:90074355-90121989 (-)",
+      "disease": "Hypomagnesemia, tubulopathy, and dilated cardiomyopathy (electrolyte-losing tubulopathy; mTOR signaling activation)"
+    },
+    {
+      "hgnc_id": "HGNC:2204",
+      "hgnc_gene_name": "collagen type IV alpha 3 chain",
+      "gene_symbol": "COL4A3",
+      "gene_aliases": "N/A",
+      "hg38_coords": "chr2:227164624-227314792 (+)",
+      "hg19_coords": "chr2:228029281-228179508 (+)",
+      "disease": "Alport syndrome, recessive and dominant forms (MIM 203780 and MIM 104200)"
+    },
+    {
+      "hgnc_id": "HGNC:13394",
+      "hgnc_gene_name": "NPHS2 stomatin family member, podocin",
+      "gene_symbol": "NPHS2",
+      "gene_aliases": "SRN1; PDCN",
+      "hg38_coords": "chr1:179550494-179575952 (-)",
+      "hg19_coords": "chr1:179519674-179545087 (-)",
+      "disease": "Autosomal recessive nephrotic syndrome type 2 (MIM 600995)"
+    },
+    {
+      "hgnc_id": "HGNC:11621",
+      "hgnc_gene_name": "HNF1 homeobox A",
+      "gene_symbol": "HNF1A",
+      "gene_aliases": "MODY3; TCF1; HNF1; LFB1; HNF1\u03b1",
+      "hg38_coords": "chr12:120978543-121002512 (+)",
+      "hg19_coords": "chr12:121416346-121440315 (+)",
+      "disease": "Likely pathogenic variant possibly explaining patient's partial phenotype (specific disease not named in paper)"
+    },
+    {
+      "hgnc_id": "HGNC:618",
+      "hgnc_gene_name": "apolipoprotein L1",
+      "gene_symbol": "APOL1",
+      "gene_aliases": "APOL",
+      "hg38_coords": "chr22:36253071-36267530 (+)",
+      "hg19_coords": "chr22:36649056-36663576 (+)",
+      "disease": "Kidney disease risk in individuals of African ancestry (G1/G2 polymorphic risk alleles)"
+    }
+  ]
+}
