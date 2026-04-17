@@ -53,4 +53,5 @@ LEFT JOIN gene_alias ga ON ga.gene_id = g.id
 GROUP BY g.id, g.hgnc_gene_name
 ORDER BY g.hgnc_gene_name;
 ```
+
 ![Mockup](image/Part2_output_query2.png)
